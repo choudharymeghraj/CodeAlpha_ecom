@@ -14,7 +14,7 @@ QuickBuy lets users register/login, browse products by category, manage a shoppi
 * Bootstrap + custom CSS  
 * Passport.js & express-session  
 
-**Developer:** Honoured OneByte  
+**Developer:** Meghraj Choudhary
 **Duration:** Internship Task 1
 
 ---
@@ -62,7 +62,7 @@ QuickBuy lets users register/login, browse products by category, manage a shoppi
 
 ```bash
 # 1. Clone
-git clone https://github.com/Honoured-1-byte/CodeAlpha_QuickBuy.git
+git clone https://github.com/choudharymeghraj/CodeAlpha_ecom.git
 cd CodeAlpha_QuickBuy
 
 # 2. Install deps
